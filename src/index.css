@@ -1,0 +1,26 @@
+.bg-primary-orange,
+.btn-filled,
+.btn-filled:hover {
+  background-color: #ff4931;
+  border: 1px solid #ff4931;
+}
+
+.btn-outlined {
+  color: #ff4931;
+  border: 1px solid #ff4931;
+  background-color: transparent;
+}
+
+.btn-outlined:hover {
+  color: white;
+  border: 1px solid #ff4931;
+  background-color: #ff4931;
+}
+
+.text-primary-orange,
+.text-primary-orange:hover {
+  color: #ff4931;
+}
+.bg-gray-section {
+  background-color: hsl(0, 0%, 95%);
+}
